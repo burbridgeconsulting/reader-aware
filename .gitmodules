@@ -1,0 +1,3 @@
+[submodule "js/awarejs"]
+	path = js/awarejs
+	url = git://github.com/xoxco/awarejs.git
