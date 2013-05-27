@@ -3,7 +3,7 @@
 Plugin Name: Reader Aware
 Plugin URI: http://chrisburbridge.com/plugins/reader-aware
 Description: Creates classes based on a visitors behavior, that can allow you to change layout. Only a wrapper for http://xoxco.com/projects/code/aware/
-Version: 0.1
+Version: 1.1
 Author: Chris Burbridge
 Author URI: http://chrisburbridge.com
 Author Email: chris@chrisburbridge.com
