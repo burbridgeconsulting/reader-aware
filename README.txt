@@ -4,7 +4,7 @@ Donate link: http://chrisburbridge.com/plugins/donate/
 Tags: jquery, css, 
 Requires at least: 3.5.1
 Tested up to: 3.5.1
-Version: 1.0
+Version: 1.1
 
 A wrapper for the aware.js plugin, by http://xoxco.com/. See more at http://xoxco.com/projects/code/aware/
 
@@ -42,6 +42,9 @@ Read more at http://xoxco.com/projects/code/aware/
 
 = 1.0 =
 * First release
+
+= 1.1 = 
+* Added aware.js as submodule.
 
 == To Do ==
 
